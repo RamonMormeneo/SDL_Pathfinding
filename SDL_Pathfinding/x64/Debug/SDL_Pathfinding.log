@@ -1,0 +1,34 @@
+﻿  Node.cpp
+f:\nueva carpeta (2)\sdl_pathfinding\sdl_pathfinding\edge.h(7): error C2143: syntax error: missing ';' before '*'
+f:\nueva carpeta (2)\sdl_pathfinding\sdl_pathfinding\edge.h(7): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+f:\nueva carpeta (2)\sdl_pathfinding\sdl_pathfinding\edge.h(7): error C2238: unexpected token(s) preceding ';'
+f:\nueva carpeta (2)\sdl_pathfinding\sdl_pathfinding\edge.h(8): error C2143: syntax error: missing ';' before '*'
+f:\nueva carpeta (2)\sdl_pathfinding\sdl_pathfinding\edge.h(8): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+f:\nueva carpeta (2)\sdl_pathfinding\sdl_pathfinding\edge.h(8): error C2238: unexpected token(s) preceding ';'
+  Graph.cpp
+f:\nueva carpeta (2)\sdl_pathfinding\sdl_pathfinding\edge.h(7): error C2143: syntax error: missing ';' before '*'
+f:\nueva carpeta (2)\sdl_pathfinding\sdl_pathfinding\edge.h(7): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+f:\nueva carpeta (2)\sdl_pathfinding\sdl_pathfinding\edge.h(7): error C2238: unexpected token(s) preceding ';'
+f:\nueva carpeta (2)\sdl_pathfinding\sdl_pathfinding\edge.h(8): error C2143: syntax error: missing ';' before '*'
+f:\nueva carpeta (2)\sdl_pathfinding\sdl_pathfinding\edge.h(8): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+f:\nueva carpeta (2)\sdl_pathfinding\sdl_pathfinding\edge.h(8): error C2238: unexpected token(s) preceding ';'
+  Edge.cpp
+f:\nueva carpeta (2)\sdl_pathfinding\sdl_pathfinding\edge.h(7): error C2143: syntax error: missing ';' before '*'
+f:\nueva carpeta (2)\sdl_pathfinding\sdl_pathfinding\edge.h(7): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+f:\nueva carpeta (2)\sdl_pathfinding\sdl_pathfinding\edge.h(7): error C2238: unexpected token(s) preceding ';'
+f:\nueva carpeta (2)\sdl_pathfinding\sdl_pathfinding\edge.h(8): error C2143: syntax error: missing ';' before '*'
+f:\nueva carpeta (2)\sdl_pathfinding\sdl_pathfinding\edge.h(8): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+f:\nueva carpeta (2)\sdl_pathfinding\sdl_pathfinding\edge.h(8): error C2238: unexpected token(s) preceding ';'
+  utils.cpp
+f:\nueva carpeta (2)\sdl_pathfinding\src\utils.cpp(5): fatal error C1083: Cannot open include file: 'SDL.h': No such file or directory
+  main.cpp
+f:\nueva carpeta (2)\sdl_pathfinding\src\main.cpp(2): fatal error C1083: Cannot open include file: 'SDL.h': No such file or directory
+  SteeringBehavior.cpp
+f:\nueva carpeta (2)\sdl_pathfinding\src\agent.h(4): fatal error C1083: Cannot open include file: 'SDL.h': No such file or directory
+  ScenePathFindingMouse.cpp
+f:\nueva carpeta (2)\sdl_pathfinding\src\scene.h(3): fatal error C1083: Cannot open include file: 'SDL.h': No such file or directory
+  SDL_SimpleApp.cpp
+f:\nueva carpeta (2)\sdl_pathfinding\src\sdl_simpleapp.h(3): fatal error C1083: Cannot open include file: 'SDL.h': No such file or directory
+  Agent.cpp
+f:\nueva carpeta (2)\sdl_pathfinding\src\agent.h(4): fatal error C1083: Cannot open include file: 'SDL.h': No such file or directory
+  Generating Code...

@@ -1,0 +1,19 @@
+﻿  Node.cpp
+f:\nueva carpeta (2)\sdl_pathfinding\sdl_pathfinding\edge.h(8): error C2143: syntax error: missing ';' before '*'
+f:\nueva carpeta (2)\sdl_pathfinding\sdl_pathfinding\edge.h(8): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+f:\nueva carpeta (2)\sdl_pathfinding\sdl_pathfinding\edge.h(8): error C2238: unexpected token(s) preceding ';'
+f:\nueva carpeta (2)\sdl_pathfinding\sdl_pathfinding\edge.h(9): error C2143: syntax error: missing ';' before '*'
+f:\nueva carpeta (2)\sdl_pathfinding\sdl_pathfinding\edge.h(9): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+f:\nueva carpeta (2)\sdl_pathfinding\sdl_pathfinding\edge.h(9): error C2238: unexpected token(s) preceding ';'
+  Graph.cpp
+f:\nueva carpeta (2)\sdl_pathfinding\sdl_pathfinding\edge.h(8): error C2143: syntax error: missing ';' before '*'
+f:\nueva carpeta (2)\sdl_pathfinding\sdl_pathfinding\edge.h(8): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+f:\nueva carpeta (2)\sdl_pathfinding\sdl_pathfinding\edge.h(8): error C2238: unexpected token(s) preceding ';'
+f:\nueva carpeta (2)\sdl_pathfinding\sdl_pathfinding\edge.h(9): error C2143: syntax error: missing ';' before '*'
+f:\nueva carpeta (2)\sdl_pathfinding\sdl_pathfinding\edge.h(9): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+f:\nueva carpeta (2)\sdl_pathfinding\sdl_pathfinding\edge.h(9): error C2238: unexpected token(s) preceding ';'
+  Edge.cpp
+f:\nueva carpeta (2)\sdl_pathfinding\sdl_pathfinding\node.h(11): error C2065: 'Edge': undeclared identifier
+f:\nueva carpeta (2)\sdl_pathfinding\sdl_pathfinding\node.h(11): error C2923: 'std::vector': 'Edge' is not a valid template type argument for parameter '_Ty'
+f:\nueva carpeta (2)\sdl_pathfinding\sdl_pathfinding\node.h(11): error C3203: 'allocator': unspecialized class template can't be used as a template argument for template parameter '_Alloc', expected a real type
+  Generating Code...
